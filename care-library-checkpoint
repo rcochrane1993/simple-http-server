@@ -1,0 +1,9 @@
+1 the fs core module is important in development because it si the built-in "file system" for node
+and contains modules(or libraries) that are imported into a file. the fs allows us to access
+the file system.
+
+2. sync methods will not execute until the previous line of code has executed, while
+non-sync methods do not wait for the previous line of code to execute before running.
+3. modules are useful because they allow us to add libraries for use in our code.
+4. server-side languages require a way to acces the file system through code, and the 
+fs system allows us to do that.
